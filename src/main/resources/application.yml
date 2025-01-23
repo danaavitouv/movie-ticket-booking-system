@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/moovie_ticket_booking
+    url: jdbc:postgresql://DESKTOP-P56227S:5432/moovie_ticket_booking
     username: postgres
     password: 1234
   jpa:
